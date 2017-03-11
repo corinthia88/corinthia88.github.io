@@ -1,0 +1,19 @@
+div {
+    border-radius:5px black solid;
+    height:20px;
+    width:50px;
+    background-color:green;
+}
+#header {
+    position:fixed;
+    z-index:1;
+}
+.left {
+    float:left
+}
+.right {
+    float:right
+}
+#footer {
+    clear:both;
+}
